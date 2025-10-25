@@ -236,10 +236,8 @@ nvtop
 
 </details>
 
-PROMPT:
-
 <details>
-
+<summary>PROMPT</summary>
 Você é um especialista em Linux e compatibilidade de jogos. Vou te dar:
 
 1. O nome do jogo.
