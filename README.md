@@ -1,4 +1,4 @@
-# Cachy OS - Jogos no Linux
+# Cachy OS
 
 Este repositório documenta problemas e soluções para rodar jogos no Linux usando **Heroic Launcher**, **Proton GE**, **Winetricks** e outras ferramentas de compatibilidade.
 
@@ -90,4 +90,54 @@ Este repositório documenta problemas e soluções para rodar jogos no Linux usa
 - [DXVK](https://github.com/doitsujin/dxvk)  
 - [MangoHud](https://github.com/flightlessmango/MangoHud)  
 
+</details>
+
+PROMPT:
+
+Você é um especialista em Linux e compatibilidade de jogos. Vou te dar:
+
+1. O nome do jogo.
+2. Problemas e erros que tive durante a execução.
+3. Soluções que funcionaram ou ajustes que apliquei para resolver.
+
+Com base nisso, gere uma **seção completa em markdown** pronta para adicionar ao meu arquivo `.md`, seguindo este padrão:
+
+- Use <details> e <summary> para tornar a seção expansível.  
+- Estruture os tópicos: Hardware, Software, Configurações, Passos Realizados, Observações, Resultado, Créditos.  
+- Formate caminhos de arquivos entre backticks (`) e opções de Proton/Wine como código.  
+- Inclua apenas soluções que **realmente funcionaram** após meus testes.  
+- Mantenha bullets, títulos claros e informações objetivas.  
+
+Exemplo de resposta esperada:
+
+<details>
+<summary>Nome do Jogo (Ano)</summary>
+
+## Hardware do Sistema
+- CPU: ...
+- GPU: ...
+- RAM: ...
+
+## Software Utilizado
+- Heroic Launcher: ...
+- Proton GE: ...
+- Dependências Winetricks: ...
+
+## Configurações do Jogo
+- Proton/Wine Options: ...
+
+## Passos Realizados
+1. ...
+2. ...
+3. ...
+
+## Observações
+- ...
+- ...
+
+## Resultado
+- ...
+
+## Créditos
+- ...
 </details>
